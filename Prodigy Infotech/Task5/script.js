@@ -1,4 +1,4 @@
-const apiKey = "2b9dfef62a199803189cdb55e7959862"; // <-- Replace with your OpenWeatherMap API key
+const apiKey = "Enter Your API Key"; // <-- Replace with your OpenWeatherMap API key
 
 function displayWeather(data) {
   document.getElementById(
